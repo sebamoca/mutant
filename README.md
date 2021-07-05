@@ -11,6 +11,7 @@ API-REST:
 http://apirestmutant-env.eba-em2fbrig.us-east-1.elasticbeanstalk.com/mutant-api/api
 		
 API-REST SERVICES:
-		
-http://apirestmutant-env.eba-em2fbrig.us-east-1.elasticbeanstalk.com/mutant-api/stats
-http://apirestmutant-env.eba-em2fbrig.us-east-1.elasticbeanstalk.com/mutant-api/mutant/
+
+POST: http://apirestmutant-env.eba-em2fbrig.us-east-1.elasticbeanstalk.com/mutant-api/mutant/
+
+GET: http://apirestmutant-env.eba-em2fbrig.us-east-1.elasticbeanstalk.com/mutant-api/stats
