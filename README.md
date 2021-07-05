@@ -1,4 +1,3 @@
-# mutant
 Ejercicio ADN Mutantes
 
 # Enunciado:
@@ -43,7 +42,7 @@ iguales, de forma oblicua, horizontal o vertical.
 
 Ejemplo (Caso mutante):
 
-# String[] dna = {"ATGCGA","CAGTGC","TTATGT","AGAAGG","CCCCTA","TCACTG"};
+String[] dna = {"ATGCGA","CAGTGC","TTATGT","AGAAGG","CCCCTA","TCACTG"};
 
 En este caso el llamado a la función isMutant(dna) devuelve "true".
 Desarrolla el algoritmo de la manera más eficiente posible.
