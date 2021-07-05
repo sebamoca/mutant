@@ -47,9 +47,9 @@ String[] dna = {"ATGCGA","CAGTGC","TTATGT","AGAAGG","CCCCTA","TCACTG"};
 En este caso el llamado a la función isMutant(dna) devuelve "true".
 Desarrolla el algoritmo de la manera más eficiente posible.
 
-#SOLUCION
+# SOLUCION
 
-# API-REST
+# API-REST en AWS
 		
 http://apirestmutant-env.eba-em2fbrig.us-east-1.elasticbeanstalk.com/mutant-api/api
 		
@@ -62,3 +62,11 @@ GET: http://apirestmutant-env.eba-em2fbrig.us-east-1.elasticbeanstalk.com/mutant
 # Code coverage
 
 ![image](https://user-images.githubusercontent.com/86935152/124404776-f6c8e980-dd01-11eb-9306-d9a5ed7f5a14.png)
+
+# DATOS DE CONEXION BASE DE DATOS MYSQL en API REST - AWS
+
+HOSTNAME: aazl4x93emmjno.cczlsdoqgt4x.us-east-1.rds.amazonaws.com
+PORT: 3306
+USER: admin
+PASSWORD: Mutant993$
+SCHEMA: mutant_schema
