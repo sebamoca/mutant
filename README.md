@@ -57,7 +57,11 @@ http://apirestmutant-env.eba-em2fbrig.us-east-1.elasticbeanstalk.com/mutant-api/
 
 POST: http://apirestmutant-env.eba-em2fbrig.us-east-1.elasticbeanstalk.com/mutant-api/mutant/
 
+![image](https://user-images.githubusercontent.com/86935152/124406631-845b0800-dd07-11eb-813c-4c639d8635ad.png)
+
 GET: http://apirestmutant-env.eba-em2fbrig.us-east-1.elasticbeanstalk.com/mutant-api/stats
+
+![image](https://user-images.githubusercontent.com/86935152/124406664-93da5100-dd07-11eb-812f-3430eeac20a6.png)
 
 # Code coverage
 
@@ -74,3 +78,6 @@ USER: admin
 PASSWORD: Mutant993$
 
 SCHEMA: mutant_schema
+
+![image](https://user-images.githubusercontent.com/86935152/124406703-afddf280-dd07-11eb-8503-806a6817cd0a.png)
+
