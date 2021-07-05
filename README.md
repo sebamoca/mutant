@@ -18,6 +18,35 @@ En donde recibirás como parámetro un array de Strings que representan cada fil
 de (NxN) con la secuencia del ADN. Las letras de los Strings solo pueden ser: (A,T,C,G), las
 cuales representa cada base nitrogenada del ADN.
 
+# NO MUTANTE
+
+| A | T | G | C | G | A |
+|---|---|---|---|---|---|
+| C | A | G | T | G | C |
+| T | T | A | T | T | T |
+| A | G | A | C | G | G |
+| G | C | G | T | C | A |
+| T | C | A | C | T | G |
+
+# MUTANTE
+
+| A | T | G | C | G | A |
+|---|---|---|---|---|---|
+| C | A | G | T | G | C |
+| T | T | A | T | G | T |
+| A | G | A | A | G | G |
+| C | C | C | C | T | A |
+| T | C | A | C | T | G |
+
+Sabrás si un humano es mutante, si encuentras más de una secuencia de cuatro letras
+iguales, de forma oblicua, horizontal o vertical.
+
+Ejemplo (Caso mutante):
+
+# String[] dna = {"ATGCGA","CAGTGC","TTATGT","AGAAGG","CCCCTA","TCACTG"};
+
+En este caso el llamado a la función isMutant(dna) devuelve "true".
+Desarrolla el algoritmo de la manera más eficiente posible.
 
 URL de la API:
 
