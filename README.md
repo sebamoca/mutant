@@ -17,7 +17,7 @@ En donde recibirás como parámetro un array de Strings que representan cada fil
 de (NxN) con la secuencia del ADN. Las letras de los Strings solo pueden ser: (A,T,C,G), las
 cuales representa cada base nitrogenada del ADN.
 
-# NO MUTANTE
+No-Mutante
 
 | A | T | G | C | G | A |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@ cuales representa cada base nitrogenada del ADN.
 | G | C | G | T | C | A |
 | T | C | A | C | T | G |
 
-# MUTANTE
+Mutante
 
 | A | T | G | C | G | A |
 |---|---|---|---|---|---|
