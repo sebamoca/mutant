@@ -66,7 +66,11 @@ GET: http://apirestmutant-env.eba-em2fbrig.us-east-1.elasticbeanstalk.com/mutant
 # DATOS DE CONEXION BASE DE DATOS MYSQL en API REST - AWS
 
 HOSTNAME: aazl4x93emmjno.cczlsdoqgt4x.us-east-1.rds.amazonaws.com
+
 PORT: 3306
+
 USER: admin
+
 PASSWORD: Mutant993$
+
 SCHEMA: mutant_schema
