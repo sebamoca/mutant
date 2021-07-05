@@ -1,2 +1,0 @@
-# mutant
-Ejercicio ADN Mutantes
